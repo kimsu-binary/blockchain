@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoNew1", "CryptoNew1.csproj", "{D91E88BC-DF44-4836-BA11-7826F9AE3071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91E88BC-DF44-4836-BA11-7826F9AE3071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91E88BC-DF44-4836-BA11-7826F9AE3071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91E88BC-DF44-4836-BA11-7826F9AE3071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91E88BC-DF44-4836-BA11-7826F9AE3071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8513EA9D-302F-4CD8-8AEE-DDDB7784A5A7}
+	EndGlobalSection
+EndGlobal
